@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "Stability of dynamically decoupled synchronized clusters from system symmetries"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
