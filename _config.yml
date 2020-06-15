@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "images/profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Anastasiya Salova"
+  avatar           : "images/profile"
+  bio              : "Graduate Student at UC Davis"
+  location         : "Davis, CA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=v0lu99QAAAAJ&hl=en"
