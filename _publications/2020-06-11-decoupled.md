@@ -9,4 +9,4 @@ citation: 'Salova, A., & D'Souza, R. M. (2020). Decoupled synchronized states in
 
 <a href='http://academicpages.github.io/files/paper1.pdf'>Download paper here</a>
 
-This paper is about the number 1. The number 2 is left for future work.
+We analyze dynamical states that display a continuum of seemingly independent splay clusters. Each splay cluster is a block splay state consisting of sub-clusters of fully synchronized nodes with uniform amplitudes. Nodes within a splay cluster have a strictly defined phase difference, but nodes in different splay clusters have an arbitrary phase difference that can be fixed or evolve linearly in time. Such coexisting splay state clusters are an example of a decoupled state in that the dynamical equations of motion of the system lead to an effective decoupling between oscillators that can be physically coupled.
