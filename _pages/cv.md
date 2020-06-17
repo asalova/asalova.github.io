@@ -10,3 +10,4 @@ redirect_from:
 
 {% include base_path %}
 
+Short description of portfolio item number 1<br/><img src='/files/Salova_CV_1_31_2020.pdf'>
