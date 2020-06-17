@@ -1,5 +1,5 @@
 ---
-title: "Exotic states in a simple network of nanoelectromechanical oscillators"
+title: "Decoupled synchronized states in networks of linearly coupled limit cycle oscillators"
 collection: publications
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 permalink: /publications/2020-06-11-decoupled
