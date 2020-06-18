@@ -1,7 +1,7 @@
 ---
 title: "Decoupled synchronized states in networks of linearly coupled limit cycle oscillators"
 collection: publications
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: '<b>Salova, A.</b>, & D'Souza, R. M. (2020). Decoupled synchronized states in networks of linearly coupled limit cycle oscillators. <i>arXiv preprint arXiv:2006.06163</i>.'
 permalink: /publications/2020-06-11-decoupled
 ---
 
