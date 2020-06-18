@@ -1,8 +1,8 @@
 ---
-title: "Decoupled synchronized states in networks of linearly coupled limit cycle oscillators"
+title: "Koopman operator and its approximations for systems with symmetries"
 collection: publications
-excerpt: '<b>Salova, A.</b>, & D'Souza, R. M. (2020). Decoupled synchronized states in networks of linearly coupled limit cycle oscillators. <i>arXiv preprint arXiv:2006.06163</i>.'
-permalink: /publications/2020-06-11-decoupled
+permalink: /publication/2020-06-11-decoupled
+excerpt: 'Salova, A., Emenheiser, J., Rupe, A., Crutchfield, J. P., & D’Souza, R. M. (2019). Koopman operator and its approximations for systems with symmetries. Chaos: An Interdisciplinary Journal of Nonlinear Science, 29(9), 093128.'
 ---
 
 We analyze a variety of symmetry breaking states arising in a simple eight node network of nanoelectromechanical oscillators.
