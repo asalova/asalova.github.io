@@ -13,4 +13,7 @@ This is the front page of a website that is powered by the [academicpages templa
 
 A data-driven personal website
 ======
-Hello
+
+{% include base_path %}
+<a href='http://asalova.github.io/files/Salova_CV_06_17_2020.pdf'>link</a>
+<embed src='/files/Salova_CV_06_17_2020.pdf' type="application/pdf" width="600px" height="500px" />
