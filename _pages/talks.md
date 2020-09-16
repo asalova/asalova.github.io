@@ -3,11 +3,12 @@ layout: archive
 permalink: /talks/
 author_profile: true
 ---
+
+
+{% include base_path %}
 ## **Posters**
 
 Some of my talks can be viewed online:
-
-{% include base_path %}
 [**Decoupled synchronized states in networks of linearly coupled limit cycle oscillators**](https://www.youtube.com/watch?v=mK6zIaPjvtY&t=21s&ab_channel=DynamicsDaysDigital2020)<br>
 Presented at Dynamics Days Digital, August 26, 2020
 
