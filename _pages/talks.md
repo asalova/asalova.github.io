@@ -3,6 +3,7 @@ layout: archive
 permalink: /talks/
 author_profile: true
 ---
+## **Posters**
 
 Some of my talks can be viewed online:
 
@@ -14,3 +15,6 @@ Presented at Dynamics Days Digital, August 26, 2020
 Presented at TopoNets satellite of NetSci, September 19, 2020
 
 ## **Posters**
+
+[**Koopman operator and its approximations for systems with symmetries**]<br>
+<a href='http://asalova.github.io/files/Salova_CV_06_17_2020.pdf'>download here</a>
