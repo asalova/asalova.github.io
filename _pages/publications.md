@@ -1,16 +1,14 @@
 ---
-title: "Page Not Found"
-excerpt: "Page not found. Your pixels are in another canvas."
-sitemap: false
-permalink: /404.html
+layout: archive
+title: "List of publications"
+permalink: /cv/
+author_profile: true
 ---
 
-Sorry, but the page you were trying to view does not exist --- perhaps you can try searching for it below.
+*[Decoupled synchronized states in networks of linearly coupled limit cycle oscillators](https://arxiv.org/abs/2006.06163)
 
-<script type="text/javascript">
-  var GOOG_FIXURL_LANG = 'en';
-  var GOOG_FIXURL_SITE = '{{ site.url }}'
-</script>
-<script type="text/javascript"
-  src="//linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js">
-</script>
+Salova, A., & D'Souza, R. M. (2020). Decoupled synchronized states in networks of linearly coupled limit cycle oscillators. arXiv preprint arXiv:2006.06163.
+
+*[Decoupled synchronized states in networks of linearly coupled limit cycle oscillators](https://arxiv.org/abs/2006.06163)
+
+Salova, A., & D'Souza, R. M. (2020). Decoupled synchronized states in networks of linearly coupled limit cycle oscillators. arXiv preprint arXiv:2006.06163.
