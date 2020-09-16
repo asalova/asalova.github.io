@@ -19,4 +19,5 @@ Presented at TopoNets satellite of NetSci, September 19, 2020
 ## **Posters**
 
 <a href='http://asalova.github.io/files/DDays_2019.pdf'>**Koopman
-operator and its approximations for systems with symmetries**</a>
+operator and its approximations for systems with symmetries**</a><br>
+Dynamics Days, January 5, 2019, Evanston, IL
