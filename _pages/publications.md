@@ -1,9 +1,11 @@
 ---
 layout: archive
 title: "List of publications"
-permalink: /cv/
+permalink: /publications/
 author_profile: true
 ---
+
+
 {% include base_path %}
 Testtest
 *[Decoupled synchronized states in networks of linearly coupled limit cycle oscillators](https://arxiv.org/abs/2006.06163)
