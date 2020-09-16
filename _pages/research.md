@@ -1,10 +1,11 @@
 ---
 layout: archive
-title: "CV"
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
 
 {% include base_path %}
-<a href='http://asalova.github.io/files/Salova_CV_06_17_2020.pdf'>link</a>
-<embed src='/files/Salova_CV_06_17_2020.pdf' type="application/pdf" width="600px" height="500px" />
+Ok hi
+<br/><img src='/images/500x300.png'>
+Ok bye
