@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at UC Davis working with Professor Raissa D'Souza. I am broadly interested in the interplay of structure and dynamics in networks and systems with higher order interactions. Recently, I've 
+I am a sixth year PhD student in Physics at UC Davis working with Professor [Raissa D'Souza](http://mae.engr.ucdavis.edu/dsouza/). 
