@@ -18,4 +18,11 @@ Salova, A., Emenheiser, J., Rupe, A., Crutchfield, J. P., & D’Souza, R. M. (20
 Matheny, M. H., Emenheiser, J., Fon, W., Chapman, A., Salova, A., Rohden, M., Li, J., Hudoba de Badyn, M., Posfai, M., Duenas-Osorio, L., Mesbahi, M., Crutchfield, J. P., Cross, M. C., D'Souza, R. M., & Roukes, M. L. (2019). Exotic states in a simple network of nanoelectromechanical oscillators. Science, 363(6431), eaav7932.
 
 ## **In preparation**
-**A**
+
+**Dynamically
+decoupled synchronization in rings of nanoelectromechanical oscillators**<br>
+Emenheiser, J., Salova, A., Snyder, J., Crutchfield, J. P., and D'Souza, R. M. Dynamically
+decoupled synchronization in rings of nanoelectromechanical oscillators.
+
+**Cluster synchronization in systems with higher order interactions**<br>
+Salova, A., D'Souza, R. M. Cluster synchronization in systems with higher order interactions.

@@ -17,5 +17,5 @@ Presented at TopoNets satellite of NetSci, September 19, 2020
 
 ## **Posters**
 
-[**Koopman operator and its approximations for systems with symmetries**]<br>
-<a href='http://asalova.github.io/files/Salova_CV_06_17_2020.pdf'>download here</a>
+<a href='http://asalova.github.io/files/DDays_2019.pdf'>**Koopman
+operator and its approximations for systems with symmetries**</a>
