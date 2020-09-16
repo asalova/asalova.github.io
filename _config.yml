@@ -218,15 +218,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _research
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
