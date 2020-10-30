@@ -8,6 +8,10 @@ author_profile: true
 
 ## **Published**
 
+[**Decoupled synchronized states in networks of linearly coupled limit cycle oscillators**](https://arxiv.org/abs/2006.06163)<br>
+**under review** at Physical Review Research<br>
+**Salova, A.**, & D'Souza, R. M. (2020). Decoupled synchronized states in networks of linearly coupled limit cycle oscillators. Physical Review Research in press, available on arXiv:2006.06163.
+
 [**Koopman operator and its approximations for systems with symmetries.**](https://aip.scitation.org/doi/full/10.1063/1.5099091)<br>
 **Salova, A.**, Emenheiser, J., Rupe, A., Crutchfield, J. P., & D’Souza, R. M. (2019). Koopman operator and its approximations for systems with symmetries. Chaos: An Interdisciplinary Journal of Nonlinear Science, 29(9), 093128.
 
@@ -18,10 +22,6 @@ Matheny, M. H., Emenheiser, J., Fon, W., Chapman, A., **Salova, A.**, Rohden, M.
 
 [**Network and Phase Symmetries Reveal That Amplitude Dynamics Stabilize Decoupled Oscillator Clusters**](https://arxiv.org/abs/2010.09131)<br>
 Emenheiser, J., **Salova, A.**, Snyder, J., Crutchfield, J.P., and D'Souza, R.M. (2020). Network and Phase Symmetries Reveal That Amplitude Dynamics Stabilize Decoupled Oscillator Clusters. arXiv preprint arXiv:2010.09131.
-
-[**Decoupled synchronized states in networks of linearly coupled limit cycle oscillators**](https://arxiv.org/abs/2006.06163)<br>
-**under review** at Physical Review Research<br>
-**Salova, A.**, & D'Souza, R. M. (2020). Decoupled synchronized states in networks of linearly coupled limit cycle oscillators. arXiv preprint arXiv:2006.06163.
 
 ## **In preparation**
 
