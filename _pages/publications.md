@@ -9,7 +9,6 @@ author_profile: true
 ## **Published**
 
 [**Decoupled synchronized states in networks of linearly coupled limit cycle oscillators**](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.043261)<br>
-<br>
 **Salova, A.**, & D'Souza, R. M. (2020). Decoupled synchronized states in networks of linearly
 coupled limit cycle oscillators. Physical Review Research, 2(4), 043261.
 
