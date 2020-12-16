@@ -7,4 +7,4 @@ author_profile: true
 
 {% include base_path %}
 <a href='http://asalova.github.io/files/Salova_CV_12_16_2020.pdf'>download here</a>
-<embed src='/files/Salova_CV_10_30_2020.pdf' type="application/pdf" width="600px" height="500px" />
+<embed src='/files/Salova_CV_12_16_2020.pdf' type="application/pdf" width="600px" height="500px" />

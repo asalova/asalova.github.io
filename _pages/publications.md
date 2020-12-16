@@ -8,9 +8,10 @@ author_profile: true
 
 ## **Published**
 
-[**Decoupled synchronized states in networks of linearly coupled limit cycle oscillators**](https://arxiv.org/abs/2006.06163)<br>
-**under review** at Physical Review Research<br>
-**Salova, A.**, & D'Souza, R. M. (2020). Decoupled synchronized states in networks of linearly coupled limit cycle oscillators. Physical Review Research in press, available on arXiv:2006.06163.
+[**Decoupled synchronized states in networks of linearly coupled limit cycle oscillators**](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.043261)<br>
+<br>
+**Salova, A.**, & D'Souza, R. M. (2020). Decoupled synchronized states in networks of linearly
+coupled limit cycle oscillators. Physical Review Research, 2(4), 043261.
 
 [**Koopman operator and its approximations for systems with symmetries.**](https://aip.scitation.org/doi/full/10.1063/1.5099091)<br>
 **Salova, A.**, Emenheiser, J., Rupe, A., Crutchfield, J. P., & D’Souza, R. M. (2019). Koopman operator and its approximations for systems with symmetries. Chaos: An Interdisciplinary Journal of Nonlinear Science, 29(9), 093128.
