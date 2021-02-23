@@ -21,7 +21,7 @@ Matheny, M. H., Emenheiser, J., Fon, W., Chapman, A., **Salova, A.**, Rohden, M.
 ## **Preprints**
 
 [**Cluster synchronization on hypergraphs**](https://arxiv.org/abs/2101.05464)<br>
-**Salova, A**, & D'Souza, R. M. (2021). Cluster synchronization on hypergraphs. arXiv preprint arXiv:2101.05464.
+**Salova, A**, & D'Souza, R. M. (2021). Cluster synchronization on hypergraphs. arXiv preprint arXiv:2101.05464. \
 Code available [**here**](https://github.com/asalova).
 
 [**Network and Phase Symmetries Reveal That Amplitude Dynamics Stabilize Decoupled Oscillator Clusters**](https://arxiv.org/abs/2010.09131)<br>
